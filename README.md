@@ -1,31 +1,27 @@
-# ⚽ Football Player Flip Cards
+# ⚽ Football Player Flip Card Dashboard
 
-An interactive Power BI dashboard featuring flip-style football player
-cards with club-based filtering and interactive player information.
+An interactive **Power BI dashboard** featuring dynamic flip-style football player cards with club-based filtering and interactive player information.
 
 ## 🔗 Project Links
 
-- 💼 [View LinkedIn Post](YOUR-LINKEDIN-POST-LINK)
-- 📊 [View Project / Portfolio](YOUR-PROJECT-LINK)
+* 💼 [View LinkedIn Post](https://lnkd.in/p/dHX76z-a)
+* 🌐 [View Portfolio](YOUR-PORTFOLIO-LINK)
 
 ## ✨ Key Features
 
-- Interactive player flip cards
-- Club-based filtering
-- Player profile information
-- Interactive Power BI visuals
-- Custom HTML/CSS-based card experience
+* Dynamic football player flip cards
+* Club-based player filtering
+* Player profile and performance information
+* Interactive Power BI visuals
+* Custom HTML/CSS card experience
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
-- HTML / CSS
-- DAX
-- Power Query
+**Power BI** · **DAX** · **Power Query** · **HTML** · **CSS**
 
 ## 📸 Dashboard Preview
 
-![Football Player Flip Cards](image-link-or-image-path)
+![Football Player Flip Card Dashboard](YOUR-IMAGE-PATH)
 
 ## 👨‍💻 Author
 
