@@ -27,4 +27,4 @@ An interactive **Power BI dashboard** featuring dynamic flip-style football play
 
 **Asif Hossain Nasir**
 
-[LinkedIn](YOUR-LINKEDIN-PROFILE)
+[LinkedIn](https://www.linkedin.com/in/asif-hossain-nasir?utm_source=share_via&utm_content=profile&utm_medium=member_android)
