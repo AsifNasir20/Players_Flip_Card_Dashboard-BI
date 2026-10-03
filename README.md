@@ -5,7 +5,7 @@ An interactive **Power BI dashboard** featuring dynamic flip-style football play
 ## 🔗 Project Links
 
 * 💼 [View LinkedIn Post](https://lnkd.in/p/dHX76z-a)
-* 🌐 [View Portfolio](YOUR-PORTFOLIO-LINK)
+* 🌐 [View Portfolio](https://asifnasir20.github.io/asif.github.io/)
 
 ## ✨ Key Features
 
