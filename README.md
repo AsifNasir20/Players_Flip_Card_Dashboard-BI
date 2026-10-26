@@ -3,8 +3,8 @@
 An interactive **Power BI dashboard** featuring dynamic flip-style football player cards with club-based filtering and interactive player information.
 
 ## 📸 Dashboard Preview
-[View Video](https://github.com/user-attachments/assets/c0deffd1-2cfc-4da5-a1c8-5d2f45b4482a)
-[View LinkedIn Post](https://lnkd.in/p/dHX76z-a)
+* [View Video](https://github.com/user-attachments/assets/c0deffd1-2cfc-4da5-a1c8-5d2f45b4482a)
+* [View LinkedIn Post](https://lnkd.in/p/dHX76z-a)
 
 ## ✨ Key Features
 
